@@ -48,3 +48,15 @@
     border-radius: 4px;
     cursor: pointer;
 }
+.shimmer-container{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.shimmer{
+    width: 186px;
+    height: 300px;
+    padding:5px;
+    margin: 5px;
+    background-color: #f0f0f0;
+}
